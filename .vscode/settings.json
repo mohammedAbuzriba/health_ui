@@ -1,0 +1,6 @@
+{
+  "workbench.settings.useSplitJSON": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  }
+}
